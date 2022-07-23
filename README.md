@@ -1,6 +1,6 @@
 # Buskerz 스프링 프로젝트 By 일조가일냈조 
 ### 길거리의 아티스트와 시민을 연결짓는 버스킹 정보 공유 플랫폼
-### Busking information sharing platform that connects street artists and citizens
+### Platform sharing Busking information that connects street artists and citizens
 #### Project nickname : 버스커즈
 #### Project execution period : 2022.06.14~2022.07.01
 
